@@ -1,0 +1,14 @@
+{
+  "options.availableKeys": "Vapaat näppäimet",
+  "options.category": "Kategoria",
+  "options.confirmReset": "Oikeasti?",
+  "options.key": "Näppäin",
+  "options.showAll": "Näytä kaikki",
+  "options.showConflicts": "Näytä ristiriidat",
+  "options.showNone": "Näytä määrittämättömät",
+  "options.sort": "Lajittele",
+  "options.sortAZ": "A->Ö",
+  "options.sortNone": "Älä lajittele",
+  "options.sortZA": "Ö->A",
+  "options.toggleFree": "Näytä vapaat"
+}

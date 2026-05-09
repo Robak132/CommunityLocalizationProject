@@ -1,0 +1,14 @@
+{
+  "collector.all": "Creativo",
+  "collector.inventory": "Inventario",
+  "dialog.button.ABORT": "Abortar",
+  "dialog.button.CANCEL": "Cancelar",
+  "dialog.button.CONFIRM": "Confirmar",
+  "dialog.button.MAYBE": "Quizás",
+  "dialog.button.NO": "No",
+  "dialog.button.YES": "Sí",
+  "gui.add": "Añadir",
+  "gui.client-config": "Configuración del cliente",
+  "gui.config": "Configuración",
+  "gui.save": "Guardar"
+}

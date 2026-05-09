@@ -1,0 +1,14 @@
+{
+  "options.availableKeys": "Қолжетімді перне",
+  "options.category": "Санат",
+  "options.confirmReset": "Растайсыз ба?",
+  "options.key": "Перне",
+  "options.showAll": "Бәрін көрсету",
+  "options.showConflicts": "Конфликтерді көрсету",
+  "options.showNone": "Байланыспағанды көрсету",
+  "options.sort": "Сұрыптау",
+  "options.sortAZ": "A->Z",
+  "options.sortNone": "Еш",
+  "options.sortZA": "Z->A",
+  "options.toggleFree": "Босты ауыстыру"
+}

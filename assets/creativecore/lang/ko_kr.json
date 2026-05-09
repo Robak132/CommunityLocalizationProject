@@ -1,0 +1,16 @@
+{
+  "collector.all": "크리에이티브",
+  "collector.inventory": "인벤토리",
+  "dialog.button.ABORT": "중단",
+  "dialog.button.CANCEL": "취소",
+  "dialog.button.CONFIRM": "확인",
+  "dialog.button.MAYBE": "아마도",
+  "dialog.button.NO": "아니오",
+  "dialog.button.OK": "OK",
+  "dialog.button.YES": "예",
+  "dialog.savechanges": "변경내용을 저장하시겠습니까?",
+  "gui.add": "추가",
+  "gui.client-config": "클라이언트 환경설정",
+  "gui.config": "환경설정",
+  "gui.save": "저장"
+}

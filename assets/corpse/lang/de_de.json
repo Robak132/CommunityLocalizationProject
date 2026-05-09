@@ -1,0 +1,21 @@
+{
+  "button.corpse.additional_items": "Zusätzliche Items",
+  "button.corpse.next": "Weiter",
+  "button.corpse.previous": "Zurück",
+  "button.corpse.show_items": "Items",
+  "button.corpse.transfer_items": "Items transferieren",
+  "chat.corpse.teleport_death_location": "Zur Todesstelle teleportieren %s",
+  "entity.corpse.corpse": "Leiche",
+  "entity.corpse.corpse_of": "Leiche von %s",
+  "gui.corpse.death_history.date_format": "yyyy.MM.dd HH:mm:ss",
+  "gui.corpse.death_history.dimension": "Dimension",
+  "gui.corpse.death_history.location": "Position",
+  "gui.corpse.death_history.name": "Name",
+  "gui.corpse.death_history.title": "Todeshistorie",
+  "gui.corpse.page": "%s von %s",
+  "key.corpse.death_history": "Todeshistorie öffnen",
+  "message.corpse.no_death_history": "Keine Todeshistorie",
+  "tooltip.corpse.death_date": "Starb am %s",
+  "tooltip.corpse.item_count": "Enthält %s stack(s)",
+  "tooltip.corpse.teleport": "Teleportieren"
+}

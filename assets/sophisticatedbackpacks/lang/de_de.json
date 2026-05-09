@@ -1,0 +1,15 @@
+{
+  "item.sophisticatedbackpacks.chipped.carpenter_workbench_upgrade": "Chipped: Tischler-Werkbank-Upgrade",
+  "item.sophisticatedbackpacks.chipped.carpenter_workbench_upgrade.tooltip": "Chipped Tischler-Werkbank in einem Upgrade-Tab",
+  "item.sophisticatedbackpacks.chipped.glassblower_workbench_upgrade": "Chipped: Glaser-Werkbank-Upgrade",
+  "item.sophisticatedbackpacks.chipped.glassblower_workbench_upgrade.tooltip": "Chipped Glaser-Werkbank in einem Upgrade-Tab",
+  "item.sophisticatedbackpacks.chipped.mason_workbench_upgrade": "Chipped: Maurer-Werkbank-Upgrade",
+  "item.sophisticatedbackpacks.chipped.mason_workbench_upgrade.tooltip": "Chipped Maurer-Werkbank in einem Upgrade-Tab",
+  "item.sophisticatedbackpacks.chipped.philosopher_workbench_upgrade": "Chipped: Philosophen-Werkbank-Upgrade",
+  "item.sophisticatedbackpacks.chipped.philosopher_workbench_upgrade.tooltip": "Chipped Philosophen-Werkbank in einem Upgrade-Tab",
+  "item.sophisticatedbackpacks.chipped.shepherd_workbench_upgrade": "Chipped: Schäfer-Werkbank-Upgrade",
+  "item.sophisticatedbackpacks.chipped.shepherd_workbench_upgrade.tooltip": "Chipped Schäfer-Werkbank in einem Upgrade-Tab",
+  "item.sophisticatedbackpacks.chipped.tinkerer_workbench_upgrade": "Chipped: Bastler-Werkbank-Upgrade",
+  "item.sophisticatedbackpacks.chipped.tinkerer_workbench_upgrade.tooltip": "Chipped Bastler-Werkbank in einem Upgrade-Tab",
+  "key.sophisticatedbackpacks.sort": "Rucksack sortieren"
+}

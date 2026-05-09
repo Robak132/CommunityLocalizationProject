@@ -1,0 +1,18 @@
+{
+  "item.sns.lunchbox": "Ланчбокс",
+  "pack.sns.description": "Ресурси Sacks 'N Such",
+  "sns.advancements.frame_pack.description": "Використовуйте сталь, щоб створити раму рюкзака. Наскільки складно?",
+  "sns.advancements.frame_pack.title": "Нескладний рюкзак",
+  "sns.advancements.hiking_boots.description": "Створіть кілька шкарпеткових чоботів, які допоможуть вам досліджувати пішки",
+  "sns.advancements.hiking_boots.title": "Ці черевики створені для прогулянок",
+  "sns.advancements.leather_sack.description": "Створіть шкіряний мішечок із найтоншої шкіри",
+  "sns.advancements.lunchbox.description": "Викуйте ланчбокс",
+  "sns.advancements.lunchbox.title": "Їжа на ходу",
+  "sns.advancements.steel_horseshoes.description": "Створіть підкови зі сталі. Вони ніби зачаровані",
+  "sns.advancements.steel_horseshoes.title": "Підкови швидкости",
+  "sns.advancements.steel_toe_hiking_boots.description": "Захистіть копита сталлю",
+  "sns.advancements.steel_toe_hiking_boots.title": "Захист для цих носків",
+  "sns.advancements.straw_basket.description": "Створіть примітивний кошик із соломи",
+  "sns.tooltip.food_trait.lunchbox": "Ланчбокс зберігся",
+  "sns.tooltip.lunchbox.selected_slot": "Вибраний слот: %s"
+}

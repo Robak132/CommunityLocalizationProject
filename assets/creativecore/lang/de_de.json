@@ -1,0 +1,23 @@
+{
+  "collector.all": "Kreativ",
+  "collector.inventory": "Inventar",
+  "dialog.button.ABORT": "Abbrechen",
+  "dialog.button.CANCEL": "Beenden",
+  "dialog.button.CONFIRM": "Bestätigen",
+  "dialog.button.MAYBE": "Vielleicht",
+  "dialog.button.NO": "Nein",
+  "dialog.button.OK": "Okay",
+  "dialog.button.YES": "Ja",
+  "dialog.savechanges": "Möchtest du deine Änderungen speichern?",
+  "gui.add": "Hinzufügen",
+  "gui.client-config": "Client Einstellung",
+  "gui.config": "Einstellung",
+  "gui.save": "Speichern",
+  "minecraft.block": "Block",
+  "minecraft.block_tag": "Blocktag",
+  "minecraft.fuel": "Treibstoff",
+  "minecraft.item": "Item",
+  "minecraft.item_tag": "Itemtag",
+  "minecraft.material": "Material",
+  "minecraft.stack": "Stack"
+}

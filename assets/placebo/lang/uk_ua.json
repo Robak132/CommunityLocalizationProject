@@ -1,0 +1,8 @@
+{
+  "key.categories.placebo": "Placebo",
+  "placebo.cmd.not_found": "%s не було знайдено.",
+  "placebo.cmd.serialize_failure": "Сталася помилка у процесі серіалізації.",
+  "placebo.cmd.serialize_success": "Збережено %s у %s.",
+  "placebo.toggleTrails": "Перемкнути Patreon сліди",
+  "placebo.toggleWings": "Перемкнути Patreon крила"
+}

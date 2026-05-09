@@ -1,0 +1,14 @@
+{
+  "options.availableKeys": "Touches disp.",
+  "options.category": "Catégorie",
+  "options.confirmReset": "Confirmer ?",
+  "options.key": "Touche",
+  "options.showAll": "Tout",
+  "options.showConflicts": "Conflits",
+  "options.showNone": "Non-liées",
+  "options.sort": "Tri",
+  "options.sortAZ": "A->Z",
+  "options.sortNone": "Aucun",
+  "options.sortZA": "Z->A",
+  "options.toggleFree": "Touches disp."
+}

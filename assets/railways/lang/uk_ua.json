@@ -1,0 +1,5 @@
+{
+  "block.railways.handcar.tooltip.summary": "Використайте гайковий ключ щоб підібрати.",
+  "block.railways.track_phantom.tooltip.summary": "_Фантомні колії_ сумісні з _усіма_ типами візків",
+  "railways.display_source.track_signal_source": "Стан сигналу"
+}

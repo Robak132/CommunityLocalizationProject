@@ -1,0 +1,22 @@
+{
+  "button.corpse.additional_items": "Дополнительные предметы",
+  "button.corpse.next": "След.",
+  "button.corpse.previous": "Назад",
+  "button.corpse.show_items": "Предметы",
+  "button.corpse.transfer_items": "Переместить предметы",
+  "chat.corpse.teleport_death_location": "Телепортироваться к месту смерти %s",
+  "config.jade.plugin_corpse.corpse": "Corpse",
+  "entity.corpse.corpse": "Труп",
+  "entity.corpse.corpse_of": "Труп %s",
+  "gui.corpse.death_history.date_format": "dd/MM/yyyy HH:mm:ss",
+  "gui.corpse.death_history.dimension": "Измерение",
+  "gui.corpse.death_history.location": "Местонахождение",
+  "gui.corpse.death_history.name": "Имя",
+  "gui.corpse.death_history.title": "История смерти игрока",
+  "gui.corpse.page": "%s из %s",
+  "key.corpse.death_history": "Открыть историю смертей игрока",
+  "message.corpse.no_death_history": "Нет истории смерти игрока",
+  "tooltip.corpse.death_date": "Умер в %s",
+  "tooltip.corpse.item_count": "Содержит %s стэк(ов)",
+  "tooltip.corpse.teleport": "Телепортироваться"
+}

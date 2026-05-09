@@ -1,0 +1,13 @@
+{
+  "": "/Última actualización: 23/07/2017",
+  "item.toolbelt.belt": "Cinturón para herramientas",
+  "item.toolbelt.pouch": "Bolsa para cinturón",
+  "key.toolbelt.category": "Tool Belt",
+  "key.toolbelt.open": "Swap Tool",
+  "text.toolbelt": "Cinturón para herramientas",
+  "text.toolbelt.empty": "VACIO",
+  "text.toolbelt.extract": "EXTRAER",
+  "text.toolbelt.insert": "INSERTAR",
+  "text.toolbelt.swap": "CAMBIAR",
+  "text.toolbelt.tooltip": "Mejoras: %s (%s espacios)"
+}

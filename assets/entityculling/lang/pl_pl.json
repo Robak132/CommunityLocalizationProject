@@ -1,0 +1,5 @@
+{
+  "key.entityculling.toggle": "Debugowe przełączenie cullingu",
+  "key.entityculling.toggleBoxes": "Pokaż bryły cullingu",
+  "text.entityculling.title": "EntityCulling"
+}

@@ -1,0 +1,23 @@
+{
+  "key.categories.craftingtweaks": "Raccourcis de craft",
+  "key.craftingtweaks.balance": "Équilibrer la grille",
+  "key.craftingtweaks.clear": "Vider la grille",
+  "key.craftingtweaks.compress_all": "Compresse tout",
+  "key.craftingtweaks.compress_one": "Compresse l'item",
+  "key.craftingtweaks.compress_stack": "Compresse le stack",
+  "key.craftingtweaks.decompress_all": "Décompresse tout",
+  "key.craftingtweaks.decompress_one": "Décompresse l'item",
+  "key.craftingtweaks.decompress_stack": "Décompress le stack",
+  "key.craftingtweaks.force_clear": "Force le vide de la grille",
+  "key.craftingtweaks.refill_last": "Craft récent",
+  "key.craftingtweaks.refill_last_stack": "Craft récent (Stack)",
+  "key.craftingtweaks.rotate": "Tourner la grille",
+  "key.craftingtweaks.rotate_counter_clockwise": "Tourner la grille (Inverse)",
+  "key.craftingtweaks.spread": "Disperser sur la grille",
+  "tooltip.craftingtweaks.balance": "Équilibrer la grille",
+  "tooltip.craftingtweaks.clear": "Vider la grille",
+  "tooltip.craftingtweaks.forceClear": "Force le vide de la grille",
+  "tooltip.craftingtweaks.forceClearInfo": "Drops les items si nécessaire",
+  "tooltip.craftingtweaks.rotate": "Tourner la grille",
+  "tooltip.craftingtweaks.spread": "Disperser sur la grille"
+}

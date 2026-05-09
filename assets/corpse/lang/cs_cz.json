@@ -1,0 +1,21 @@
+{
+  "button.corpse.additional_items": "Další předměty",
+  "button.corpse.next": "Další",
+  "button.corpse.previous": "Zpět",
+  "button.corpse.show_items": "Předměty",
+  "button.corpse.transfer_items": "Vybrat obsah",
+  "chat.corpse.teleport_death_location": "Teleportovat se na místo úmrtí %s",
+  "entity.corpse.corpse": "Tělo",
+  "entity.corpse.corpse_of": "Tělo %s",
+  "gui.corpse.death_history.date_format": "yyyy/MM/dd HH:mm:ss",
+  "gui.corpse.death_history.dimension": "Dimenze",
+  "gui.corpse.death_history.location": "Pozice",
+  "gui.corpse.death_history.name": "Jméno",
+  "gui.corpse.death_history.title": "Hráčova historie úmrtí",
+  "gui.corpse.page": "%s z %s",
+  "key.corpse.death_history": "Otevřít hráčovu historii úmrtí",
+  "message.corpse.no_death_history": "Hráč nemá žádnou historii úmrtí",
+  "tooltip.corpse.death_date": "Zemřel %s",
+  "tooltip.corpse.item_count": "Obsahuje %s položek",
+  "tooltip.corpse.teleport": "Teleportovat"
+}

@@ -1,0 +1,16 @@
+{
+  "behaviour.paintspray.infinite.fluid_storage": "§bPaint: §f%s / %s mB",
+  "behaviour.paintspray.infinite.status.color": "§7Mode: §f%s",
+  "behaviour.paintspray.infinite.status.solvent": "Solvent",
+  "behaviour.paintspray.infinite.tooltip.current_color": "Current Color: %s",
+  "behaviour.paintspray.infinite.tooltip.info": "§eRight-click §7to paint.",
+  "behaviour.paintspray.infinite.tooltip.info_1": "§eShift + Right-click on paintable block §7to chain paint.",
+  "behaviour.paintspray.infinite.tooltip.info_2": "§eShift + Right-click §7to open Color Selection Menu.",
+  "behaviour.paintspray.infinite.tooltip.solvent": "§7Mode: §bSolvent (Cleaning)",
+  "behaviour.paintspray.solvent.short": "Solvent",
+  "config.gtmutils.option.infiniteSprayCanEnabled": "infiniteSprayCanEnabled",
+  "gui.gtmutils.color_select.title": "Select Color",
+  "item.gtmutils.infinite_spray_can": "Infinite Spray Can",
+  "key.categories.gtmutils": "GTM Utils",
+  "key.gtmutils.spray_can_menu": "Open Spray Can Radial Menu"
+}

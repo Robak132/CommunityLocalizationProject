@@ -1,0 +1,14 @@
+{
+  "options.availableKeys": "Доступні клавіші",
+  "options.category": "Категорія",
+  "options.confirmReset": "Підтвердити скидання!",
+  "options.key": "Клавіша",
+  "options.showAll": "Всі",
+  "options.showConflicts": "Конфлікти",
+  "options.showNone": "Не прив'язані",
+  "options.sort": "Сортувати",
+  "options.sortAZ": "А->Я",
+  "options.sortNone": "Ні",
+  "options.sortZA": "Я->А",
+  "options.toggleFree": "Перемкнути вільні"
+}

@@ -1,0 +1,14 @@
+{
+  "options.availableKeys": "Tasti disponibili",
+  "options.category": "Categoria",
+  "options.confirmReset": "Conferma ripristino",
+  "options.key": "Tasto",
+  "options.showAll": "Vedi tutti",
+  "options.showConflicts": "Vedi conflitti",
+  "options.showNone": "Vedi mancanti",
+  "options.sort": "Ordine",
+  "options.sortAZ": "A->Z",
+  "options.sortNone": "no",
+  "options.sortZA": "Z->A",
+  "options.toggleFree": "Tasti liberi"
+}

@@ -1,0 +1,15 @@
+{
+  "item.toolbelt.belt": "Værktøjsbælte",
+  "item.toolbelt.pouch": "Bæltetaske",
+  "key.toolbelt.category": "Værktøjsbælte",
+  "key.toolbelt.cycle.left": "Skift Værktøj Mod Venstre",
+  "key.toolbelt.cycle.right": "Skift Værktøj Mod Højre",
+  "key.toolbelt.open": "Udskift Værktøj",
+  "key.toolbelt.slot": "Åben bælte lager",
+  "text.toolbelt": "Værktøjsbælte",
+  "text.toolbelt.empty": "TOM",
+  "text.toolbelt.extract": "UDTRÆK",
+  "text.toolbelt.insert": "INDSÆT",
+  "text.toolbelt.swap": "UDSKIFT",
+  "text.toolbelt.tooltip": "Opgraderinger: %s (%s slots)"
+}

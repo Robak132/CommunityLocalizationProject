@@ -1,0 +1,14 @@
+{
+  "options.availableKeys": "उपलब्ध कुंजियाँ",
+  "options.category": "श्रेणी",
+  "options.confirmReset": "पुष्टि करें?",
+  "options.key": "चाभी",
+  "options.showAll": "सब दिखाएं",
+  "options.showConflicts": "संघर्ष दिखाएँ",
+  "options.showNone": "अनबाउंड दिखाएं",
+  "options.sort": "छंटाई",
+  "options.sortAZ": "A->Z",
+  "options.sortNone": "कोई भी नहीं",
+  "options.sortZA": "Z->A",
+  "options.toggleFree": "टॉगल मुक्त"
+}

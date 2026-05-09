@@ -1,0 +1,14 @@
+{
+  "options.availableKeys": "Boşta Anahtarlar",
+  "options.category": "Kategori",
+  "options.confirmReset": "Onayla?",
+  "options.key": "Anahtar",
+  "options.showAll": "Hepsini Göster",
+  "options.showConflicts": "Çakışmaları göster",
+  "options.showNone": "Atanmamışları Göster",
+  "options.sort": "Sırala",
+  "options.sortAZ": "A->Z",
+  "options.sortNone": "Hiç",
+  "options.sortZA": "Z->A",
+  "options.toggleFree": "Serbest Geçiş"
+}

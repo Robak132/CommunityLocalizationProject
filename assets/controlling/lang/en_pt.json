@@ -1,0 +1,14 @@
+{
+  "options.availableKeys": "Untethered Keys",
+  "options.category": "Factions",
+  "options.confirmReset": "Click to seal ye fate!",
+  "options.key": "Key",
+  "options.showAll": "Reveal All",
+  "options.showConflicts": "Parley",
+  "options.showNone": "Untethered",
+  "options.sort": "Filter",
+  "options.sortAZ": "Bow->Stern",
+  "options.sortNone": "Naught",
+  "options.sortZA": "Stern->Bow",
+  "options.toggleFree": "Lootable Keys"
+}

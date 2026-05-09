@@ -1,0 +1,10 @@
+{
+  "block.railways.handcar.tooltip.summary": "Almak için İngiliz Anahtarı kullanın.",
+  "block.railways.track_biomesoplenty_umbran": "Umbran Tren Rayı",
+  "block.railways.track_biomesoplenty_umbran_wide": "Dar Umbran Tren Rayı",
+  "block.railways.track_biomesoplenty_willow": "Söğüt Tren Rayı",
+  "block.railways.track_biomesoplenty_willow_narrow": "Dar Söğüt Tren Rayı",
+  "block.railways.track_biomesoplenty_willow_wide": "Geniş Söğüt Tren Rayı",
+  "block.railways.track_phantom.tooltip.summary": "_Kâbustan Tren Rayları_ _bütün_ boji tipleriyle uyumludur",
+  "railways.display_source.track_signal_source": "Sinyal Durumu"
+}

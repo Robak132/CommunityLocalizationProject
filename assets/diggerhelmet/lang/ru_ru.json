@@ -1,0 +1,21 @@
+{
+  "item.diggerhelmet.bismuth_bronze_digger_helmet": "Шлем шахтера из висмутовой бронзы",
+  "item.diggerhelmet.black_bronze_digger_helmet": "Шлем шахтера из черной бронзы",
+  "item.diggerhelmet.black_steel_digger_helmet": "Шлем шахтера из черной стали",
+  "item.diggerhelmet.blue_steel_digger_helmet": "Шлем шахтера из синей стали",
+  "item.diggerhelmet.broken_bismuth_bronze_digger_helmet": "Сломанный шлем шахтера из висмутовой бронзы",
+  "item.diggerhelmet.broken_black_bronze_digger_helmet": "Сломанный шлем шахтера из черной бронзы",
+  "item.diggerhelmet.broken_black_steel_digger_helmet": "Сломанный шлем шахтера из черной стали",
+  "item.diggerhelmet.broken_blue_steel_digger_helmet": "Сломанный шлем шахтера из синей стали",
+  "item.diggerhelmet.broken_bronze_digger_helmet": "Сломанный шлем шахтера из бронзы",
+  "item.diggerhelmet.broken_copper_digger_helmet": "Сломанный медный шлем шахтера",
+  "item.diggerhelmet.broken_red_steel_digger_helmet": "Сломанный шлем шахтера из красной стали",
+  "item.diggerhelmet.broken_steel_digger_helmet": "Сломанный шлем шахтера из стали",
+  "item.diggerhelmet.broken_wrought_iron_digger_helmet": "Сломанный шлем шахтера из кованого железа",
+  "item.diggerhelmet.bronze_digger_helmet": "Шлем шахтера из бронзы",
+  "item.diggerhelmet.copper_digger_helmet": "Медный шлем шахтера",
+  "item.diggerhelmet.red_steel_digger_helmet": "Шлем шахтера из красной стали",
+  "item.diggerhelmet.steel_digger_helmet": "Шлем шахтера из стали",
+  "item.diggerhelmet.wrought_iron_digger_helmet": "Шлем шахтера из кованого железа",
+  "jei.diggerhelmet.category.helmet_upgrade": "Улучшение Digger Helmet"
+}

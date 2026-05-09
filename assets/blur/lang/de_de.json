@@ -1,0 +1,15 @@
+{
+  "blur.midnightconfig.blurExclusions": "Blur-Ausnahmen",
+  "blur.midnightconfig.category.screens": "Bildschirme",
+  "blur.midnightconfig.category.style": "Stil",
+  "blur.midnightconfig.ease": "Geschmeidige Animation",
+  "blur.midnightconfig.fadeOutTimeMillis": "Ausblendzeit (in milliseconds)",
+  "blur.midnightconfig.fadeTimeMillis": "Überblendzeit (in Millisekunden)",
+  "blur.midnightconfig.gradientEnd": "Farbverlauf-Endfarbe",
+  "blur.midnightconfig.gradientEndAlpha": "Farbverlauf-Endstransparenz",
+  "blur.midnightconfig.gradientStart": "Farbverlauf-Anfangsfarbe",
+  "blur.midnightconfig.gradientStartAlpha": "Farbverlauf-Anfangstransparenz",
+  "blur.midnightconfig.radius": "Radius",
+  "blur.midnightconfig.showScreenTitle": "Logge Bildschirmtitel",
+  "blur.midnightconfig.title": "Blur Konfiguration"
+}

@@ -1,0 +1,14 @@
+{
+  "options.availableKeys": "Dostępne klawisze",
+  "options.category": "Kategoria",
+  "options.confirmReset": "Na pewno?",
+  "options.key": "Klawisz",
+  "options.showAll": "Wszystkie",
+  "options.showConflicts": "Konfliktujące",
+  "options.showNone": "Nieprzypisane",
+  "options.sort": "Sortow.",
+  "options.sortAZ": "A->Z",
+  "options.sortNone": "Brak",
+  "options.sortZA": "Z->A",
+  "options.toggleFree": "Wolne"
+}

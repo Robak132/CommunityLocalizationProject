@@ -1,0 +1,14 @@
+{
+  "options.availableKeys": "Teclas Disponibles",
+  "options.category": "Categoría",
+  "options.confirmReset": "Confirmar reinicio",
+  "options.key": "Tecla",
+  "options.showAll": "Mostrar todo",
+  "options.showConflicts": "Conflictos",
+  "options.showNone": "No asignados",
+  "options.sort": "Ordenar",
+  "options.sortAZ": "A->Z",
+  "options.sortNone": "No",
+  "options.sortZA": "Z->A",
+  "options.toggleFree": "Mostrar libres"
+}
