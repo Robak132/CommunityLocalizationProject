@@ -1,0 +1,51 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag name for the release (for example: v1.0.0)"
+        required: true
+        type: string
+      release_name:
+        description: "Release title"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set release variables
+        id: vars
+        shell: bash
+        run: |
+          if [ "${GITHUB_EVENT_NAME}" = "workflow_dispatch" ]; then
+            TAG="${{ inputs.tag }}"
+          else
+            TAG="${GITHUB_REF_NAME}"
+          fi
+          echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
+          echo "asset_name=CommunityLocalizationProject-${TAG}.zip" >> "$GITHUB_OUTPUT"
+
+      - name: Build release zip
+        shell: bash
+        run: |
+          zip -r "${{ steps.vars.outputs.asset_name }}" . \
+            -x ".git/*" ".github/*"
+
+      - name: Create GitHub release and upload asset
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.vars.outputs.tag }}
+          name: ${{ inputs.release_name || steps.vars.outputs.tag }}
+          files: ${{ steps.vars.outputs.asset_name }}
